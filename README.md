@@ -6,5 +6,6 @@ This repository is based on https://github.com/andrew-d/static-binaries/tree/mas
 The modified version can be compiled locally without the help of docker, so there is no need to install and download musl
 
 # just run
-    ./build
+    chmod +x build.sh
+    ./build.sh
 
